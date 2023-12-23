@@ -1,0 +1,6 @@
+langchain
+openai
+python-dotenv
+streamlit
+duckduckgo-search
+numexpr
