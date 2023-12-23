@@ -1,1 +1,1 @@
-# mathgpt
+# MathGPT
